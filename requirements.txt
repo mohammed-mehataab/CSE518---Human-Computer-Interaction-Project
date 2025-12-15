@@ -1,0 +1,16 @@
+# Python Dependencies for Virtual Mouse Project
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.21.0
+pyautogui>=0.9.53
+pillow>=9.0.0
+
+# Speech recognition
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.11
+
+# Optional for enhanced functionality
+scipy>=1.9.0  # Advanced signal processing if needed
