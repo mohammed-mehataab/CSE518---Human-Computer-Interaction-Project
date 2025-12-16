@@ -2,7 +2,6 @@
 
 A sophisticated **touchless virtual mouse system** for macOS that combines real-time hand gesture recognition with voice commands. Perfect for presentations, accessibility, and hands-free computing.
 
-**Status:** ✅ Production Ready | **Version:** 2.0 | **Last Updated:** December 2025
 
 ---
 
@@ -388,13 +387,6 @@ This project demonstrates:
 - Multi-threaded applications
 - Event-driven architecture
 
-Perfect for:
-- Computer vision students
-- HCI researchers
-- Accessibility developers
-- Gesture recognition projects
-- Voice interface development
-
 ---
 
 ## 🔮 Future Enhancements
@@ -417,15 +409,6 @@ Perfect for:
 
 ---
 
-## 📞 Version History
-
-- **v2.0** (Dec 2025) - Enhanced voice integration, improved error handling
-- **v1.2** (Nov 2025) - Added PIL ImageGrab, reliable screenshots
-- **v1.1** (Nov 2025) - Improved macOS support, FLAC handling
-- **v1.0** (Oct 2025) - Initial release
-
----
-
 ## 🙏 Acknowledgments
 
 Special thanks to:
@@ -438,6 +421,3 @@ Special thanks to:
 ---
 
 **Made with ❤️ for accessibility and hands-free computing**
-
-*Last Updated: December 2025*  
-*Tested on: macOS 12-14 (Intel & Apple Silicon)*
