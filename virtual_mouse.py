@@ -8,9 +8,6 @@ A touchless virtual mouse for macOS that combines:
 - Real-time processing with OpenCV
 - Accessibility features for disabled users
 
-Author: AI Assistant
-Date: December 2025
-Version: 2.0
 
 Features:
 - Hand gesture detection with 21 landmark points
