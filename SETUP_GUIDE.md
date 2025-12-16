@@ -437,12 +437,6 @@ which flac
 
 ---
 
-## 📄 License
-
-This project is provided as-is for educational and research purposes.
-
----
-
 ## 🤝 Contributing
 
 Improvements welcome! Areas for contribution:
@@ -463,15 +457,3 @@ Improvements welcome! Areas for contribution:
 4. Test microphone: `python -c "import speech_recognition as sr; sr.Microphone()"`
 
 ---
-
-## 📝 Version History
-
-- **v1.0** - Initial release with gesture + voice integration
-- **v1.1** - Enhanced macOS support, FLAC binary handling
-- **v1.2** - Added PIL ImageGrab for reliable screenshots
-- **v2.0** - Modular voice listener, improved error handling
-
----
-
-**Last Updated:** December 2025  
-**Tested on:** macOS 12-14 (Intel & Apple Silicon)
